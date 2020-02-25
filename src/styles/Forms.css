@@ -1,0 +1,56 @@
+.wrapper {
+  width: 600px;
+  margin: auto;
+  background-color: rgb(67, 67, 67);
+  color: white;
+  margin-top: 30px;
+  font-family: sans-serif;
+}
+.thanks {
+  height: 700px;
+
+  text-align: center;
+}
+.thanks {
+  margin-top: 30px;
+}
+.thanks h2 {
+  padding-top: 50px;
+}
+
+form {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+label {
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+input {
+  background: transparent;
+  margin: 0px 20px 20px 20px;
+  line-height: 30px;
+  color: white;
+  padding-left: 5px;
+}
+button {
+  width: 150px;
+  justify-self: center;
+  background: transparent;
+  margin-bottom: 30px;
+  color: white;
+  height: 35px;
+  margin-top: 10px;
+}
+::placeholder {
+  color: white;
+}
+.profileHeader {
+  padding: 20px;
+}
+.error {
+  color: red;
+}
+.errorBox {
+  border: 1px solid red;
+}

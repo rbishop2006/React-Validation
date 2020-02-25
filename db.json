@@ -1,1 +1,20 @@
-{}
+{
+  "users": [
+    {
+      "fname": "John",
+      "lname": "Smith",
+      "email": "j@smith.com",
+      "username": "jsmigh",
+      "website": "http://www.google.com",
+      "id": 1
+    },
+    {
+      "fname": "John",
+      "lname": "Smith",
+      "email": "j@smith.com",
+      "username": "jsmigh",
+      "website": "http://www.google.com",
+      "id": 2
+    }
+  ]
+}
